@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tetris.dir/src/main.cpp.o CMakeFiles/tetris.dir/dependencies/glad/src/glad.c.o -o tetris  -Wl,-rpath,/opt/homebrew/lib -framework OpenGL /opt/homebrew/lib/libglfw.3.4.dylib
