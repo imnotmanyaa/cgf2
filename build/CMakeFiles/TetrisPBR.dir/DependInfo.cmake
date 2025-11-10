@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/src/glad.c" "CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o" "gcc" "CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o.d"
-  "/Users/imnotmanya/Desktop/TetrisPBR/src/main.cpp" "CMakeFiles/TetrisPBR.dir/src/main.cpp.o" "gcc" "CMakeFiles/TetrisPBR.dir/src/main.cpp.o.d"
+  "/Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/src/glad.c" "CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o" "gcc" "CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o.d"
+  "/Users/imnotmanya/Desktop/main/TetrisPBR/src/main.cpp" "CMakeFiles/TetrisPBR.dir/src/main.cpp.o" "gcc" "CMakeFiles/TetrisPBR.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

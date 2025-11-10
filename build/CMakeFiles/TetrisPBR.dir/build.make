@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/imnotmanya/Desktop/TetrisPBR
+CMAKE_SOURCE_DIR = /Users/imnotmanya/Desktop/main/TetrisPBR
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/imnotmanya/Desktop/TetrisPBR/build
+CMAKE_BINARY_DIR = /Users/imnotmanya/Desktop/main/TetrisPBR/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/TetrisPBR.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/TetrisPBR.dir/codegen:
 .PHONY : CMakeFiles/TetrisPBR.dir/codegen
 
 CMakeFiles/TetrisPBR.dir/src/main.cpp.o: CMakeFiles/TetrisPBR.dir/flags.make
-CMakeFiles/TetrisPBR.dir/src/main.cpp.o: /Users/imnotmanya/Desktop/TetrisPBR/src/main.cpp
+CMakeFiles/TetrisPBR.dir/src/main.cpp.o: /Users/imnotmanya/Desktop/main/TetrisPBR/src/main.cpp
 CMakeFiles/TetrisPBR.dir/src/main.cpp.o: CMakeFiles/TetrisPBR.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TetrisPBR.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TetrisPBR.dir/src/main.cpp.o -MF CMakeFiles/TetrisPBR.dir/src/main.cpp.o.d -o CMakeFiles/TetrisPBR.dir/src/main.cpp.o -c /Users/imnotmanya/Desktop/TetrisPBR/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TetrisPBR.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TetrisPBR.dir/src/main.cpp.o -MF CMakeFiles/TetrisPBR.dir/src/main.cpp.o.d -o CMakeFiles/TetrisPBR.dir/src/main.cpp.o -c /Users/imnotmanya/Desktop/main/TetrisPBR/src/main.cpp
 
 CMakeFiles/TetrisPBR.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TetrisPBR.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/imnotmanya/Desktop/TetrisPBR/src/main.cpp > CMakeFiles/TetrisPBR.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/imnotmanya/Desktop/main/TetrisPBR/src/main.cpp > CMakeFiles/TetrisPBR.dir/src/main.cpp.i
 
 CMakeFiles/TetrisPBR.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TetrisPBR.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/imnotmanya/Desktop/TetrisPBR/src/main.cpp -o CMakeFiles/TetrisPBR.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/imnotmanya/Desktop/main/TetrisPBR/src/main.cpp -o CMakeFiles/TetrisPBR.dir/src/main.cpp.s
 
 CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o: CMakeFiles/TetrisPBR.dir/flags.make
-CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o: /Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/src/glad.c
+CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o: /Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/src/glad.c
 CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o: CMakeFiles/TetrisPBR.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o -MF CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o.d -o CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o -c /Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o -MF CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o.d -o CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.o -c /Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/src/glad.c
 
 CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/src/glad.c > CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/src/glad.c > CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.i
 
 CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/src/glad.c -o CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/src/glad.c -o CMakeFiles/TetrisPBR.dir/dependencies/glad/src/glad.c.s
 
 # Object files for target TetrisPBR
 TetrisPBR_OBJECTS = \
@@ -114,7 +114,7 @@ TetrisPBR: CMakeFiles/TetrisPBR.dir/build.make
 TetrisPBR: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework
 TetrisPBR: /opt/homebrew/lib/libglfw.3.4.dylib
 TetrisPBR: CMakeFiles/TetrisPBR.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TetrisPBR"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TetrisPBR"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TetrisPBR.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,6 +126,6 @@ CMakeFiles/TetrisPBR.dir/clean:
 .PHONY : CMakeFiles/TetrisPBR.dir/clean
 
 CMakeFiles/TetrisPBR.dir/depend:
-	cd /Users/imnotmanya/Desktop/TetrisPBR/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/imnotmanya/Desktop/TetrisPBR /Users/imnotmanya/Desktop/TetrisPBR /Users/imnotmanya/Desktop/TetrisPBR/build /Users/imnotmanya/Desktop/TetrisPBR/build /Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/TetrisPBR.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/imnotmanya/Desktop/main/TetrisPBR/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/imnotmanya/Desktop/main/TetrisPBR /Users/imnotmanya/Desktop/main/TetrisPBR /Users/imnotmanya/Desktop/main/TetrisPBR/build /Users/imnotmanya/Desktop/main/TetrisPBR/build /Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/TetrisPBR.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/TetrisPBR.dir/depend
 

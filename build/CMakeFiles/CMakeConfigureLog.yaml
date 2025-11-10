@@ -24,7 +24,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -45,7 +44,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/uname"
       - "/opt/homebrew/bin/uname"
       - "/opt/homebrew/sbin/uname"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/uname"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/uname"
       - "/usr/local/bin/uname"
       - "/System/Cryptexes/App/usr/bin/uname"
@@ -56,7 +54,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -81,7 +78,7 @@ events:
       - "/opt/homebrew/share/cmake/Modules/CMakeDetermineSystem.cmake:212 (message)"
       - "CMakeLists.txt:2 (project)"
     message: |
-      The system is: Darwin - 23.5.0 - arm64
+      The system is: Darwin - 25.0.0 - arm64
   -
     kind: "find-v1"
     backtrace:
@@ -107,7 +104,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -133,7 +129,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -182,7 +177,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -203,7 +197,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/cc"
       - "/opt/homebrew/bin/cc"
       - "/opt/homebrew/sbin/cc"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/cc"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/cc"
       - "/usr/local/bin/cc"
       - "/System/Cryptexes/App/usr/bin/cc"
@@ -214,7 +207,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -264,7 +256,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -303,7 +294,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
       
       The C compiler identification is AppleClang, found in:
-        /Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/4.1.2/CompilerIdC/a.out
+        /Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/4.1.2/CompilerIdC/a.out
       
   -
     kind: "message-v1"
@@ -316,7 +307,7 @@ events:
         # 1 "apple-sdk.c"
         # 1 "<built-in>" 1
         # 1 "<built-in>" 3
-        # 424 "<built-in>" 3
+        # 466 "<built-in>" 3
         # 1 "<command line>" 1
         # 1 "<built-in>" 2
         # 1 "apple-sdk.c" 2
@@ -328,11 +319,19 @@ events:
         # 91 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h" 2 3 4
         # 207 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h" 3 4
         # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 1 3 4
-        # 177 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 3 4
+        # 196 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 3 4
+        # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h" 1 3 4
+        # 197 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
         # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 1 3 4
-        # 178 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
+        # 33 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 3 4
+        # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h" 1 3 4
+        # 34 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 2 3 4
+        # 198 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
         # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h" 1 3 4
-        # 179 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
+        # 34 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h" 3 4
+        # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 1 3 4
+        # 35 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h" 2 3 4
+        # 199 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
         # 208 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h" 2 3 4
         # 2 "apple-sdk.c" 2
         
@@ -363,7 +362,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -385,7 +383,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -429,7 +426,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -451,7 +447,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -495,7 +490,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -517,7 +511,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -561,7 +554,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -583,7 +575,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -627,7 +618,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -649,7 +639,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -693,7 +682,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -715,7 +703,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -759,7 +746,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -780,7 +766,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/objcopy"
       - "/opt/homebrew/bin/objcopy"
       - "/opt/homebrew/sbin/objcopy"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/objcopy"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/objcopy"
       - "/usr/local/bin/objcopy"
       - "/System/Cryptexes/App/usr/bin/objcopy"
@@ -802,7 +787,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -846,7 +830,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -867,7 +850,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/readelf"
       - "/opt/homebrew/bin/readelf"
       - "/opt/homebrew/sbin/readelf"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/readelf"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/readelf"
       - "/usr/local/bin/readelf"
       - "/System/Cryptexes/App/usr/bin/readelf"
@@ -889,7 +871,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -933,7 +914,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -954,7 +934,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/dlltool"
       - "/opt/homebrew/bin/dlltool"
       - "/opt/homebrew/sbin/dlltool"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/dlltool"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/dlltool"
       - "/usr/local/bin/dlltool"
       - "/System/Cryptexes/App/usr/bin/dlltool"
@@ -976,7 +955,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1020,7 +998,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -1041,7 +1018,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/addr2line"
       - "/opt/homebrew/bin/addr2line"
       - "/opt/homebrew/sbin/addr2line"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/addr2line"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/addr2line"
       - "/usr/local/bin/addr2line"
       - "/System/Cryptexes/App/usr/bin/addr2line"
@@ -1063,7 +1039,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1107,7 +1082,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -1128,7 +1102,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/tapi"
       - "/opt/homebrew/bin/tapi"
       - "/opt/homebrew/sbin/tapi"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/tapi"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/tapi"
       - "/usr/local/bin/tapi"
       - "/System/Cryptexes/App/usr/bin/tapi"
@@ -1150,7 +1123,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1203,7 +1175,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1253,7 +1224,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1292,7 +1262,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
       
       The CXX compiler identification is AppleClang, found in:
-        /Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/4.1.2/CompilerIdCXX/a.out
+        /Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/4.1.2/CompilerIdCXX/a.out
       
   -
     kind: "message-v1"
@@ -1305,7 +1275,7 @@ events:
         # 1 "apple-sdk.cpp"
         # 1 "<built-in>" 1
         # 1 "<built-in>" 3
-        # 439 "<built-in>" 3
+        # 514 "<built-in>" 3
         # 1 "<command line>" 1
         # 1 "<built-in>" 2
         # 1 "apple-sdk.cpp" 2
@@ -1317,11 +1287,19 @@ events:
         # 91 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h" 2 3 4
         # 207 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h" 3 4
         # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 1 3 4
-        # 177 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 3 4
+        # 196 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 3 4
+        # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h" 1 3 4
+        # 197 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
         # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 1 3 4
-        # 178 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
+        # 33 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 3 4
+        # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h" 1 3 4
+        # 34 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 2 3 4
+        # 198 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
         # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h" 1 3 4
-        # 179 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
+        # 34 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h" 3 4
+        # 1 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h" 1 3 4
+        # 35 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h" 2 3 4
+        # 199 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h" 2 3 4
         # 208 "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h" 2 3 4
         # 2 "apple-sdk.cpp" 2
         
@@ -1351,7 +1329,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -1372,7 +1349,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/install_name_tool"
       - "/opt/homebrew/bin/install_name_tool"
       - "/opt/homebrew/sbin/install_name_tool"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/install_name_tool"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/install_name_tool"
       - "/usr/local/bin/install_name_tool"
       - "/System/Cryptexes/App/usr/bin/install_name_tool"
@@ -1383,7 +1359,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1412,8 +1387,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA"
-      binary: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA"
+      source: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C"
+      binary: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -1425,51 +1400,52 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA'
+        Change Dir: '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_8f643/fast
-        /opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_8f643.dir/build.make CMakeFiles/cmTC_8f643.dir/build
-        gmake[1]: Entering directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA'
-        Building C object CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o
-        /usr/bin/cc   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
-        Apple clang version 16.0.0 (clang-1600.0.26.6)
-        Target: arm64-apple-darwin23.5.0
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_ba84a/fast
+        /opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_ba84a.dir/build.make CMakeFiles/cmTC_ba84a.dir/build
+        gmake[1]: Entering directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C'
+        Building C object CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o
+        /usr/bin/cc   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        Apple clang version 17.0.0 (clang-1700.4.4.1)
+        Target: arm64-apple-darwin25.0.0
         Thread model: posix
         InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
         clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
-         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.2 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
-        clang -cc1 version 16.0.0 (clang-1600.0.26.6) default target arm64-apple-darwin23.5.0
+         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=26.1 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C -target-linker-version 1230.1 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        clang -cc1 version 17.0.0 (clang-1700.4.4.1) default target arm64-apple-darwin25.0.0
         ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks"
         #include "..." search starts here:
         #include <...> search starts here:
          /usr/local/include
-         /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include
+         /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include
          /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include
          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
          /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
+         /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)
         End of search list.
-        Linking C executable cmTC_8f643
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f643.dir/link.txt --verbose=1
-        Apple clang version 16.0.0 (clang-1600.0.26.6)
-        Target: arm64-apple-darwin23.5.0
+        Linking C executable cmTC_ba84a
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba84a.dir/link.txt --verbose=1
+        Apple clang version 17.0.0 (clang-1700.4.4.1)
+        Target: arm64-apple-darwin25.0.0
         Thread model: posix
         InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
-         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 14.0.0 15.2 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_8f643 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a
-        @(#)PROGRAM:ld PROJECT:ld-1115.7.3
-        BUILD 23:52:02 Dec  5 2024
-        configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.1 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_ba84a -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a
+        @(#)PROGRAM:ld PROJECT:ld-1230.1
+        BUILD 16:18:08 Oct 17 2025
+        configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
         will use ld-classic for: armv6 armv7 armv7s i386 armv6m armv7k armv7m armv7em
-        LTO support using: LLVM version 16.0.0 (static support for 29, runtime is 29)
-        TAPI support using: Apple TAPI version 16.0.0 (tapi-1600.0.11.9)
+        LTO support using: LLVM version 17.0.0 (static support for 29, runtime is 29)
+        TAPI support using: Apple TAPI version 17.0.0 (tapi-1700.3.8)
         Library search paths:
         	/usr/local/lib
         	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib
         	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -o cmTC_8f643
-        gmake[1]: Leaving directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA'
+        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -o cmTC_ba84a
+        gmake[1]: Leaving directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C'
         
       exitCode: 0
   -
@@ -1492,15 +1468,15 @@ events:
         found start of include info
         found start of implicit include info
           add: [/usr/local/include]
-          add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include]
+          add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include]
           add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include]
           add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
         end of search list found
         collapse include dir [/usr/local/include] ==> [/usr/local/include]
-        collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include]
+        collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include]
         collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include]
         collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
-        implicit include dirs: [/usr/local/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+        implicit include dirs: [/usr/local/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
       
       
   -
@@ -1513,37 +1489,38 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA']
+        ignore line: [Change Dir: '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_8f643/fast]
-        ignore line: [/opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_8f643.dir/build.make CMakeFiles/cmTC_8f643.dir/build]
-        ignore line: [gmake[1]: Entering directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA']
-        ignore line: [Building C object CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o]
-        ignore line: [/usr/bin/cc   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
-        ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.6)]
-        ignore line: [Target: arm64-apple-darwin23.5.0]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_ba84a/fast]
+        ignore line: [/opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_ba84a.dir/build.make CMakeFiles/cmTC_ba84a.dir/build]
+        ignore line: [gmake[1]: Entering directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C']
+        ignore line: [Building C object CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/usr/bin/cc   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Apple clang version 17.0.0 (clang-1700.4.4.1)]
+        ignore line: [Target: arm64-apple-darwin25.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
         ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
-        ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.2 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-x5gEiA -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
-        ignore line: [clang -cc1 version 16.0.0 (clang-1600.0.26.6) default target arm64-apple-darwin23.5.0]
+        ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=26.1 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C -target-linker-version 1230.1 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-N87h2C -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [clang -cc1 version 17.0.0 (clang-1700.4.4.1) default target arm64-apple-darwin25.0.0]
         ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks"]
         ignore line: [#include "..." search starts here:]
         ignore line: [#include <...> search starts here:]
         ignore line: [ /usr/local/include]
-        ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include]
+        ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
+        ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking C executable cmTC_8f643]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8f643.dir/link.txt --verbose=1]
-        ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.6)]
-        ignore line: [Target: arm64-apple-darwin23.5.0]
+        ignore line: [Linking C executable cmTC_ba84a]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba84a.dir/link.txt --verbose=1]
+        ignore line: [Apple clang version 17.0.0 (clang-1700.4.4.1)]
+        ignore line: [Target: arm64-apple-darwin25.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
-        link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 14.0.0 15.2 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_8f643 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.1 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_ba84a -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
           arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -1553,26 +1530,26 @@ events:
           arg [arm64] ==> ignore
           arg [-platform_version] ==> ignore
           arg [macos] ==> ignore
-          arg [14.0.0] ==> ignore
-          arg [15.2] ==> ignore
+          arg [26.0.0] ==> ignore
+          arg [26.1] ==> ignore
           arg [-syslibroot] ==> ignore
           arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk] ==> ignore
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_8f643] ==> ignore
+          arg [cmTC_ba84a] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_8f643.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_ba84a.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lSystem] ==> lib [System]
-          arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+          arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
         linker tool for 'C': /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
         Library search paths: [;/usr/local/lib;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/swift]
         Framework search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks]
         remove lib [System]
-        remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+        remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
         collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
         collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
         collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib]
@@ -1593,12 +1570,12 @@ events:
       - "CMakeLists.txt:2 (project)"
     message: |
       Running the C compiler's linker: "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-v"
-      @(#)PROGRAM:ld PROJECT:ld-1115.7.3
-      BUILD 23:52:02 Dec  5 2024
-      configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+      @(#)PROGRAM:ld PROJECT:ld-1230.1
+      BUILD 16:18:08 Oct 17 2025
+      configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
       will use ld-classic for: armv6 armv7 armv7s i386 armv6m armv7k armv7m armv7em
-      LTO support using: LLVM version 16.0.0 (static support for 29, runtime is 29)
-      TAPI support using: Apple TAPI version 16.0.0 (tapi-1600.0.11.9)
+      LTO support using: LLVM version 17.0.0 (static support for 29, runtime is 29)
+      TAPI support using: Apple TAPI version 17.0.0 (tapi-1700.3.8)
   -
     kind: "try_compile-v1"
     backtrace:
@@ -1608,8 +1585,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM"
-      binary: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM"
+      source: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9"
+      binary: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1622,53 +1599,54 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM'
+        Change Dir: '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_bd638/fast
-        /opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_bd638.dir/build.make CMakeFiles/cmTC_bd638.dir/build
-        gmake[1]: Entering directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM'
-        Building CXX object CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-        Apple clang version 16.0.0 (clang-1600.0.26.6)
-        Target: arm64-apple-darwin23.5.0
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_0ffb6/fast
+        /opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_0ffb6.dir/build.make CMakeFiles/cmTC_0ffb6.dir/build
+        gmake[1]: Entering directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9'
+        Building CXX object CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -arch arm64   -v -Wl,-v -MD -MT CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Apple clang version 17.0.0 (clang-1700.4.4.1)
+        Target: arm64-apple-darwin25.0.0
         Thread model: posix
         InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
         clang++: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
         ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"
-         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.2 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -fdebug-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-        clang -cc1 version 16.0.0 (clang-1600.0.26.6) default target arm64-apple-darwin23.5.0
+         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=26.1 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9 -target-linker-version 1230.1 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9 -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        clang -cc1 version 17.0.0 (clang-1700.4.4.1) default target arm64-apple-darwin25.0.0
         ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks"
         #include "..." search starts here:
         #include <...> search starts here:
          /usr/local/include
          /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1
-         /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include
+         /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include
          /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include
          /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
          /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
+         /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)
         End of search list.
-        Linking CXX executable cmTC_bd638
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bd638.dir/link.txt --verbose=1
-        Apple clang version 16.0.0 (clang-1600.0.26.6)
-        Target: arm64-apple-darwin23.5.0
+        Linking CXX executable cmTC_0ffb6
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0ffb6.dir/link.txt --verbose=1
+        Apple clang version 17.0.0 (clang-1700.4.4.1)
+        Target: arm64-apple-darwin25.0.0
         Thread model: posix
         InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
-         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 14.0.0 15.2 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_bd638 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a
-        @(#)PROGRAM:ld PROJECT:ld-1115.7.3
-        BUILD 23:52:02 Dec  5 2024
-        configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.1 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_0ffb6 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a
+        @(#)PROGRAM:ld PROJECT:ld-1230.1
+        BUILD 16:18:08 Oct 17 2025
+        configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
         will use ld-classic for: armv6 armv7 armv7s i386 armv6m armv7k armv7m armv7em
-        LTO support using: LLVM version 16.0.0 (static support for 29, runtime is 29)
-        TAPI support using: Apple TAPI version 16.0.0 (tapi-1600.0.11.9)
+        LTO support using: LLVM version 17.0.0 (static support for 29, runtime is 29)
+        TAPI support using: Apple TAPI version 17.0.0 (tapi-1700.3.8)
         Library search paths:
         	/usr/local/lib
         	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib
         	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/swift
         Framework search paths:
         	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks
-        /usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_bd638
-        gmake[1]: Leaving directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM'
+        /usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_0ffb6
+        gmake[1]: Leaving directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9'
         
       exitCode: 0
   -
@@ -1692,16 +1670,16 @@ events:
         found start of implicit include info
           add: [/usr/local/include]
           add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1]
-          add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include]
+          add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include]
           add: [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include]
           add: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
         end of search list found
         collapse include dir [/usr/local/include] ==> [/usr/local/include]
         collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1]
-        collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include]
+        collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include]
         collapse include dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include]
         collapse include dir [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include] ==> [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
-        implicit include dirs: [/usr/local/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
+        implicit include dirs: [/usr/local/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
       
       
   -
@@ -1714,39 +1692,40 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM']
+        ignore line: [Change Dir: '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_bd638/fast]
-        ignore line: [/opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_bd638.dir/build.make CMakeFiles/cmTC_bd638.dir/build]
-        ignore line: [gmake[1]: Entering directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM']
-        ignore line: [Building CXX object CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-        ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.6)]
-        ignore line: [Target: arm64-apple-darwin23.5.0]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_0ffb6/fast]
+        ignore line: [/opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_0ffb6.dir/build.make CMakeFiles/cmTC_0ffb6.dir/build]
+        ignore line: [gmake[1]: Entering directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9']
+        ignore line: [Building CXX object CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -arch arm64   -v -Wl -v -MD -MT CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Apple clang version 17.0.0 (clang-1700.4.4.1)]
+        ignore line: [Target: arm64-apple-darwin25.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
         ignore line: [clang++: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
         ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"]
-        ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=15.2 -fvisibility-inlines-hidden-static-local-var -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +v8.5a -target-feature +aes -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +lse -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sha2 -target-feature +sha3 -target-feature +neon -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-abi darwinpcs -debugger-tuning=lldb -target-linker-version 1115.7.3 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16 -dependency-file CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdeprecated-macro -fdebug-compilation-dir=/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-pQvhgM -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-        ignore line: [clang -cc1 version 16.0.0 (clang-1600.0.26.6) default target arm64-apple-darwin23.5.0]
+        ignore line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=26.1 -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-assume-unique-vtables -fno-modulemap-allow-subdirectory-search -target-cpu apple-m1 -target-feature +zcm -target-feature +zcz -target-feature +v8.5a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb -fdebug-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9 -target-linker-version 1230.1 -v -fcoverage-compilation-dir=/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-c7jLR9 -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17 -dependency-file CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1 -internal-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -internal-externc-isystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -clang-vendor-feature=+disableAtImportPrivateFrameworkInImplementationError -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [clang -cc1 version 17.0.0 (clang-1700.4.4.1) default target arm64-apple-darwin25.0.0]
         ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/Library/Frameworks"]
         ignore line: [#include "..." search starts here:]
         ignore line: [#include <...> search starts here:]
         ignore line: [ /usr/local/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1]
-        ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include]
+        ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include]
         ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
+        ignore line: [ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [Linking CXX executable cmTC_bd638]
-        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bd638.dir/link.txt --verbose=1]
-        ignore line: [Apple clang version 16.0.0 (clang-1600.0.26.6)]
-        ignore line: [Target: arm64-apple-darwin23.5.0]
+        ignore line: [Linking CXX executable cmTC_0ffb6]
+        ignore line: [/opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0ffb6.dir/link.txt --verbose=1]
+        ignore line: [Apple clang version 17.0.0 (clang-1700.4.4.1)]
+        ignore line: [Target: arm64-apple-darwin25.0.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
-        link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 14.0.0 15.2 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_bd638 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.1 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_0ffb6 -L/usr/local/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
           arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -1756,27 +1735,27 @@ events:
           arg [arm64] ==> ignore
           arg [-platform_version] ==> ignore
           arg [macos] ==> ignore
-          arg [14.0.0] ==> ignore
-          arg [15.2] ==> ignore
+          arg [26.0.0] ==> ignore
+          arg [26.1] ==> ignore
           arg [-syslibroot] ==> ignore
           arg [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk] ==> ignore
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_bd638] ==> ignore
+          arg [cmTC_0ffb6] ==> ignore
           arg [-L/usr/local/lib] ==> dir [/usr/local/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_bd638.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_0ffb6.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lc++] ==> lib [c++]
           arg [-lSystem] ==> lib [System]
-          arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+          arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
         linker tool for 'CXX': /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
         Library search paths: [;/usr/local/lib;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/swift]
         Framework search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks]
         remove lib [System]
-        remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/lib/darwin/libclang_rt.osx.a]
+        remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/lib/darwin/libclang_rt.osx.a]
         collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
         collapse library dir [/usr/local/lib] ==> [/usr/local/lib]
         collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib]
@@ -1797,12 +1776,12 @@ events:
       - "CMakeLists.txt:2 (project)"
     message: |
       Running the CXX compiler's linker: "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-v"
-      @(#)PROGRAM:ld PROJECT:ld-1115.7.3
-      BUILD 23:52:02 Dec  5 2024
-      configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+      @(#)PROGRAM:ld PROJECT:ld-1230.1
+      BUILD 16:18:08 Oct 17 2025
+      configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
       will use ld-classic for: armv6 armv7 armv7s i386 armv6m armv7k armv7m armv7em
-      LTO support using: LLVM version 16.0.0 (static support for 29, runtime is 29)
-      TAPI support using: Apple TAPI version 16.0.0 (tapi-1600.0.11.9)
+      LTO support using: LLVM version 17.0.0 (static support for 29, runtime is 29)
+      TAPI support using: Apple TAPI version 17.0.0 (tapi-1700.3.8)
   -
     kind: "find-v1"
     backtrace:
@@ -1827,7 +1806,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -1835,7 +1813,6 @@ events:
       - "/bin/"
       - "/usr/sbin/"
       - "/sbin/"
-      - "/Library/Apple/usr/bin/"
       - "/Applications/Little Snitch.app/Contents/Components/"
       - "/usr/local/share/dotnet/"
       - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/"
@@ -1860,7 +1837,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -1929,7 +1905,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -1937,7 +1912,6 @@ events:
       - "/bin/"
       - "/usr/sbin/"
       - "/sbin/"
-      - "/Library/Apple/usr/bin/"
       - "/Applications/Little Snitch.app/Contents/Components/"
       - "/usr/local/share/dotnet/"
       - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/"
@@ -1962,7 +1936,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -2031,7 +2004,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -2081,7 +2053,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/OpenGL.framework/Headers/gl.h"
       - "/opt/homebrew/bin/OpenGL.framework/Headers/gl.h"
       - "/opt/homebrew/sbin/OpenGL.framework/Headers/gl.h"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/OpenGL.framework/Headers/gl.h"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/OpenGL.framework/Headers/gl.h"
       - "/usr/local/bin/OpenGL.framework/Headers/gl.h"
       - "/System/Cryptexes/App/usr/bin/OpenGL.framework/Headers/gl.h"
@@ -2127,7 +2098,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -2196,7 +2166,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -2246,7 +2215,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/OpenGL.framework/Headers/glu.h"
       - "/opt/homebrew/bin/OpenGL.framework/Headers/glu.h"
       - "/opt/homebrew/sbin/OpenGL.framework/Headers/glu.h"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/OpenGL.framework/Headers/glu.h"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/OpenGL.framework/Headers/glu.h"
       - "/usr/local/bin/OpenGL.framework/Headers/glu.h"
       - "/System/Cryptexes/App/usr/bin/OpenGL.framework/Headers/glu.h"
@@ -2292,7 +2260,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -2350,8 +2317,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-w1wYMX"
-      binary: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-w1wYMX"
+      source: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-3MyXsF"
+      binary: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-3MyXsF"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2363,17 +2330,17 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-w1wYMX'
+        Change Dir: '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-3MyXsF'
         
-        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_1b015/fast
-        /opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_1b015.dir/build.make CMakeFiles/cmTC_1b015.dir/build
-        gmake[1]: Entering directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-w1wYMX'
-        Building C object CMakeFiles/cmTC_1b015.dir/src.c.o
-        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -arch arm64 -MD -MT CMakeFiles/cmTC_1b015.dir/src.c.o -MF CMakeFiles/cmTC_1b015.dir/src.c.o.d -o CMakeFiles/cmTC_1b015.dir/src.c.o -c /Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-w1wYMX/src.c
-        Linking C executable cmTC_1b015
-        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1b015.dir/link.txt --verbose=1
-        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_1b015.dir/src.c.o -o cmTC_1b015
-        gmake[1]: Leaving directory '/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-w1wYMX'
+        Run Build Command(s): /opt/homebrew/bin/cmake -E env VERBOSE=1 /opt/homebrew/bin/gmake -f Makefile cmTC_e5beb/fast
+        /opt/homebrew/bin/gmake  -f CMakeFiles/cmTC_e5beb.dir/build.make CMakeFiles/cmTC_e5beb.dir/build
+        gmake[1]: Entering directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-3MyXsF'
+        Building C object CMakeFiles/cmTC_e5beb.dir/src.c.o
+        /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD  -arch arm64 -MD -MT CMakeFiles/cmTC_e5beb.dir/src.c.o -MF CMakeFiles/cmTC_e5beb.dir/src.c.o.d -o CMakeFiles/cmTC_e5beb.dir/src.c.o -c /Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-3MyXsF/src.c
+        Linking C executable cmTC_e5beb
+        /opt/homebrew/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e5beb.dir/link.txt --verbose=1
+        /usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmTC_e5beb.dir/src.c.o -o cmTC_e5beb
+        gmake[1]: Leaving directory '/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/CMakeScratch/TryCompile-3MyXsF'
         
       exitCode: 0
   -
@@ -2412,11 +2379,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/pkgRedirects/glfw3Config.cmake"
+        path: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/pkgRedirects/glfw3Config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "/Users/imnotmanya/Desktop/TetrisPBR/build/CMakeFiles/pkgRedirects/glfw3-config.cmake"
+        path: "/Users/imnotmanya/Desktop/main/TetrisPBR/build/CMakeFiles/pkgRedirects/glfw3-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2453,7 +2420,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -2496,10 +2462,6 @@ events:
         - "/Library/Frameworks"
         - "/Network/Library/Frameworks"
         - "/System/Library/Frameworks"
-...
-
----
-events:
   -
     kind: "find-v1"
     backtrace:
@@ -2522,7 +2484,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -2530,7 +2491,6 @@ events:
       - "/bin/"
       - "/usr/sbin/"
       - "/sbin/"
-      - "/Library/Apple/usr/bin/"
       - "/Applications/Little Snitch.app/Contents/Components/"
       - "/usr/local/share/dotnet/"
       - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/"
@@ -2555,7 +2515,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -2622,7 +2581,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -2630,7 +2588,6 @@ events:
       - "/bin/"
       - "/usr/sbin/"
       - "/sbin/"
-      - "/Library/Apple/usr/bin/"
       - "/Applications/Little Snitch.app/Contents/Components/"
       - "/usr/local/share/dotnet/"
       - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/"
@@ -2655,7 +2612,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"
@@ -2722,7 +2678,6 @@ events:
       - "/Users/imnotmanya/flutter/bin/"
       - "/opt/homebrew/bin/"
       - "/opt/homebrew/sbin/"
-      - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
       - "/Library/Frameworks/Python.framework/Versions/3.12/bin/"
       - "/usr/local/bin/"
       - "/System/Cryptexes/App/usr/bin/"
@@ -2730,7 +2685,6 @@ events:
       - "/bin/"
       - "/usr/sbin/"
       - "/sbin/"
-      - "/Library/Apple/usr/bin/"
       - "/Applications/Little Snitch.app/Contents/Components/"
       - "/usr/local/share/dotnet/"
       - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/"
@@ -2755,7 +2709,6 @@ events:
         - "/Users/imnotmanya/flutter/bin"
         - "/opt/homebrew/bin"
         - "/opt/homebrew/sbin"
-        - "/opt/homebrew/Cellar/dart/3.7.3/libexec/bin/"
         - "/Users/imnotmanya/flutter/bin"
         - "/Library/Frameworks/Python.framework/Versions/3.12/bin"
         - "/usr/local/bin"

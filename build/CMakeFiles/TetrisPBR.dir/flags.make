@@ -5,7 +5,7 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = 
 
-C_INCLUDES = -I/Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/include -I/Users/imnotmanya/Desktop/TetrisPBR/dependencies/glm -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/include
+C_INCLUDES = -I/Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/include -I/Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glm -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/include
 
 C_FLAGSarm64 =  -arch arm64
 
@@ -13,7 +13,7 @@ C_FLAGS =  -arch arm64
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/imnotmanya/Desktop/TetrisPBR/dependencies/glad/include -I/Users/imnotmanya/Desktop/TetrisPBR/dependencies/glm -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/include
+CXX_INCLUDES = -I/Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glad/include -I/Users/imnotmanya/Desktop/main/TetrisPBR/dependencies/glm -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /opt/homebrew/include
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64
 
