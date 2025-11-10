@@ -176,3 +176,34 @@ Glad for OpenGL loading
 Enjoy playing Tetris PBR! 🎮
 
 For issues and contributions, please open an issue or pull request.
+
+
+
+
+
+
+# Tetris with PBR, HDR and Bloom
+
+Modern Tetris implementation with Physically Based Rendering, HDR tone mapping and Bloom effects.
+
+## Features
+- **PBR Rendering** with albedo, normal, and roughness maps
+- **HDR Pipeline** with tone mapping
+- **Bloom Post-processing**
+- Real-time lighting with 4 light sources
+- Material switching (3 different materials)
+
+## Requirements
+- OpenGL 3.3+
+- GLFW
+- GLM
+- Glad
+
+## Build Instructions
+
+### Linux
+```bash
+mkdir build && cd build
+cmake ..
+make
+./TetrisPBR
